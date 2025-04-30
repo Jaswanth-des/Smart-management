@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jira-app-ai-456322",
+  "private_key_id": "88a7ef91c5a7feacd39987cbec9d78662b06bfb8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJPucLfC5Nxerq\nxCbV5xmpkSCzHFEmwN6DddnumLSa56fOalyS8cEj9xyucMcnp6B3DcKmLMxyzqx7\nBBr+CjMh91atTMeOA4I+DE2176NBJyS3hNIJX61ENVvbn3Z+l1NHZ9i1bQjsxWEl\n85V91DonGonZ0192X50n993T5ethgVJdRXlh/+4xiiTt3oQaOrTkvw6IVMDksd64\nCTUQRO80DRR2OzB7F5xGtTC3eriIqJv3wiuKFJIqnYHMo28fQOERjHnY9SIvkOoV\nh2EULZgOsqs+uRpKcIMmh0F09u7dBIYCzUnIsDCmPsPo9Ot9pWCfXwSS/82LbYZ4\np3QEsrFHAgMBAAECggEAYnvuBajX4CejNxCXEMbvwBPNtNl+vUBVpG/gHuuMNuJ3\nNITImQDGTBt6ZcO7MqTN2nVZdIkn5GdP8UOpEflb3Jt2R4jzf4QoEMVkokyL0C6f\nwU+2me/Ak0ipk2kOTBUyJBel7eNWIsjVKgVyewmJC+no3Dic1wkjl5Otcy1pa2VH\nrZ5sZnglqu2vv11NC+A6q7YnSUMES0lFYeRJ0D9BPZ00N2LfSrE7SaTyhyRXxWyS\nMdgCxjzLTnmtGX/htJS4RY1EcpN3P2uV2U6jonZxW7NeHidDScGfdooDb0jWlf4L\nOByeZhZWrCDTXWeLCEJvhd1XEHuWefD2vPRCwLEmgQKBgQDwPOjWtnv5k7wWNZw9\nb6ueQU0cV8IjGinLcW1eKJWtxK/vgltrfcV52ousLsSNUEUzDLsFPNSwi5cUt2qG\np38ty7raeOis3fEaa60v7PKGnLrhUtUWlfRrDyvlSnIsEEV6jay45WOR0AFhry7G\nubB3qQT8HGbJy8U3qsHwUlipnwKBgQDWcxIpr+KfFpgkMvNQfaA2qbJKD4pl/oev\n04a8wGeId96ArXKmS0kE5d7WHBnbcxn6ZTs4MgzZCdEkMo5zMSTk71Areiql05z1\nnnM3VqjOgbPlHLKkXAEpNBSXahXcCEmKGW5KfyKASzqDovxrAkz4OLk0GDJn5SVE\n7FUCiienWQKBgGjcTU2bLZYMtCaFlAMFAUX8fuoGLEkiHGgexHw6/spwddL3dWv/\n4/iCOkEX0NdV2D6mKePpX3UIGRQD002fQtX8fTzrVbRO0/SSV2/53wp+0tuTSkun\nfJ5WavSUgC1XlNwfhurVxZZZ0qCO1L4NQ0eX0QMyanNerGDV+f0qFGVFAoGBALIa\nHYKLtf4ESNT/j75Qp2fepdkGcR3mN5Cab7OBZDsduqhJ5QchTYKI2vodmof8Xx3r\nRzSTtMHoek7CwjX/IbIU4xNIwfS4/Amtz+isy0O+ysZEgEUquDgdLeDW1VLJezH7\njvLGBcRhNjavfU3uOjiI+5+9XNeWos5MLQoP7YD5AoGBAK0kUG0YUMyZOwi9bKdP\n97LIMiYGI6oaNLY0xPqcUs8IynYvRSdzIT+O6h5FFPslxfIwKxJv7G8qX5fGldB7\nirW495/KNQaDEBwp0INKQZgUTIsmFWblDSAgYtRp2LLZ33KGyZt9Fw7mSn+lm/g6\ncsLgImpnVWGJPAqH+M1qD1zl\n-----END PRIVATE KEY-----\n",
+  "client_email": "jira-app-ai-vertex@jira-app-ai-456322.iam.gserviceaccount.com",
+  "client_id": "103061131474697350462",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jira-app-ai-vertex%40jira-app-ai-456322.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
